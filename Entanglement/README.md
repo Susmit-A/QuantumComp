@@ -16,17 +16,17 @@ Basic: Given a state of a qbit, you automatically know the state of another qbit
 
 c[0] = c[1], c[2] = c[3]
 
-0000: 25%
-0011: 25%
-1100: 25%
-1111: 25%
+- 0000: 25%
+- 0011: 25%
+- 1100: 25%
+- 1111: 25%
 
 ## Simulated output (1024 runs)
 
-0000: 25.293%
-0011: 26.27%
-1100: 23.926%
-1111: 24.512%
+- 0000: 25.293%
+- 0011: 26.27%
+- 1100: 23.926%
+- 1111: 24.512%
 
 ## Conclusion
 
